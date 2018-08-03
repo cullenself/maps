@@ -1,0 +1,13 @@
+# TODO
+- [ ] NAD83 to WGS84 w/ GDAL
+- [ ] Cite Sources
+    - [Coordinate Conversions](http://www.gpstk.org/foswiki/pub/Documentation/UsersGuide/gpstk-user-reference.pdf)
+    - A\*
+- [ ] Tune cost function
+    - [Multi-Parameter Optimization](https://scicomp.stackexchange.com/questions/3318/simultaneous-maximization-of-two-functions-without-available-derivatives)
+- [ ] Output Raster Map
+- [ ] Clean up Module
+    - [ ] Write README
+    - [ ] Testing Functions
+    - [ ] Refactor variables to consistent pattern
+    - [ ] Make Objects instead of module globals
